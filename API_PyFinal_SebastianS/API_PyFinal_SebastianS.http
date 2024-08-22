@@ -1,0 +1,6 @@
+@API_PyFinal_SebastianS_HostAddress = http://localhost:5170
+
+GET {{API_PyFinal_SebastianS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

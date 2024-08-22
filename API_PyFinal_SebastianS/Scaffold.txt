@@ -1,0 +1,8 @@
+﻿Cadena de Conexion
+
+
+"SERVER=.;DATABASE=ProyectoProgra6;INTEGRATED SECURITY=FALSE;USER Id=PyFinalP6;Password=PyFinal;TrustServerCertificate=true"
+
+Comando generador de DbContext
+
+Scaffold-DbContext -f "SERVER=.;DATABASE=ProyectoProgra6;INTEGRATED SECURITY=FALSE;USER Id=PyFinalP6;Password=PyFinal;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
